@@ -1,4 +1,4 @@
-#tsv-table
+# tsv-table
 
 A simple command line node app that will take a tsv that is copied to your clipboard (or even from a tsv file) and prints out an ascii table like:
 
